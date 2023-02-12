@@ -1,2 +1,2 @@
-# Prawn
-Prawn, a chess engine written in Rust
+# prawn
+prawn, a chess engine written in Rust
